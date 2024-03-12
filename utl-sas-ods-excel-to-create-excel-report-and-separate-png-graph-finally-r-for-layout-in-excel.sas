@@ -2,6 +2,18 @@
 
 sas ods excel to create excel report and separate png graph finally r for layout in excel
 
+XLSX output
+https://tinyurl.com/5yw38v5a
+https://github.com/rogerjdeangelis/utl-sas-ods-excel-to-create-excel-report-and-separate-png-graph-finally-r-for-layout-in-excel/blob/main/sbys.xlsx
+
+PNG output
+https://tinyurl.com/37dpemf4
+https://github.com/rogerjdeangelis/utl-sas-ods-excel-to-create-excel-report-and-separate-png-graph-finally-r-for-layout-in-excel/blob/main/sbys.png
+
+github
+https://tinyurl.com/2js68yun
+https://github.com/rogerjdeangelis/utl-sas-ods-excel-to-create-excel-report-and-separate-png-graph-finally-r-for-layout-in-excel
+
 github
 https://tinyurl.com/2js68yun
 https://github.com/rogerjdeangelis/utl-sas-ods-excel-to-create-excel-report-and-separate-png-graph-finally-r-for-layout-in-excel
